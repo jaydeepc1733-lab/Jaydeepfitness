@@ -53,7 +53,7 @@ export default function App() {
             <div className="bg-rose-600 p-1.5 rounded-lg transform group-hover:rotate-12 transition-transform">
               <Dumbbell className="w-6 h-6 text-white" />
             </div>
-            <span className="font-display font-black text-2xl uppercase tracking-tighter italic">THE FITNESS PLANET</span>
+            <span className="font-display font-black text-2xl uppercase tracking-tighter italic">Royal Fitness Zone</span>
           </div>
 
           {/* Desktop Nav */}
@@ -222,7 +222,7 @@ export default function App() {
         </div>
       </section>
 
-      {/* The Fitness Planet Method Section */}
+      {/* The Royal Fitness Zone Method Section */}
       <section className="py-24 relative overflow-hidden">
         <div className="max-w-7xl mx-auto px-6">
           <div className="bg-rose-600 rounded-[3rem] p-12 md:p-20 relative overflow-hidden group">
@@ -232,7 +232,7 @@ export default function App() {
             
             <div className="relative z-10 max-w-2xl flex flex-col gap-8">
               <span className="bg-white/20 backdrop-blur-md w-fit px-4 py-1 rounded-full text-xs font-black uppercase tracking-widest">Our DNA</span>
-              <h2 className="text-4xl md:text-7xl font-display font-black uppercase italic tracking-tighter leading-none text-white">The <br /> Fitness Planet <br /> Method</h2>
+              <h2 className="text-4xl md:text-7xl font-display font-black uppercase italic tracking-tighter leading-none text-white">The <br /> Royal Fitness <br /> Method</h2>
               <p className="text-xl text-rose-100 leading-relaxed font-medium">
                 We don't believe in "quick fixes." Our method is built on three pillars: Raw Power, Mental Discipline, and Scientific Recovery. We build humans that last.
               </p>
@@ -389,7 +389,7 @@ export default function App() {
               <div className="w-8 h-8 bg-rose-600 rounded-full flex items-center justify-center relative z-10 border-4 border-white">
                 <div className="w-2 h-2 bg-white rounded-full group-hover:scale-125 transition-transform" />
               </div>
-              <span className="font-display font-black text-white text-xl tracking-tighter italic">THE FITNESS PLANET</span>
+              <span className="font-display font-black text-white text-xl tracking-tighter italic">Royal Fitness Zone</span>
             </div>
           </div>
         </div>
@@ -402,7 +402,7 @@ export default function App() {
             <div className="bg-rose-600 p-1.5 rounded-lg">
               <Dumbbell className="w-5 h-5 text-white" />
             </div>
-            <span className="font-display font-black text-xl uppercase tracking-tighter italic">THE FITNESS PLANET</span>
+            <span className="font-display font-black text-xl uppercase tracking-tighter italic">Royal Fitness Zone</span>
           </div>
           
           <div className="flex gap-8 text-xs uppercase font-bold tracking-widest text-white/40">
@@ -412,7 +412,7 @@ export default function App() {
           </div>
 
           <div className="text-[10px] uppercase font-bold tracking-widest text-white/20">
-            © 2026 THE FITNESS PLANET. All rights reserved.
+            © 2026 Royal Fitness Zone. All rights reserved.
           </div>
         </div>
       </footer>
